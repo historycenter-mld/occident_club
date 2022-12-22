@@ -21,10 +21,10 @@ source-code: https://github.com/mldhistory/occident_club
 # title of site appears in banner
 title: Meridian Occident Club 
 # tagline, a short phrase that will appear throughout the site in the top banner
-tagline: Provinding Comminity Service to Meridian, Idaho from 1924-1996
+tagline: Providing Community Service to Meridian, Idaho from 1924-1996
 # description appears in meta tags and other locations
 # this description might appear in search result lists, keep around 160 characters max
-description: "CollectionBuilder-GH is a template for creating small digital collection exhibits on GitHub Pages designed for teaching digital library skills"
+description: "The Occident Club was a community service organization serving Meridian, Idaho from 1924-1996."
 # creator of the digital collection, to appear in meta tags; we typically use our GitHub usernames but feel free to just use your name
 author: MLDHistory
 
