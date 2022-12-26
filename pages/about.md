@@ -8,7 +8,7 @@ credits: true
 # Look in _includes/feature for options to easily add features to the page
 ---
 
-{% include feature/jumbotron.html objectid="col002_oc_186" %}
+{% include feature/jumbotron.html objectid="col002_oc_205" %}
 
 {% include feature/nav-menu.html sections="The Occident Club;The Occident Club & The Library;The Occident Club & The Emergency Closet;The Occident Club & Politics;About the Occident Club Collection" %}
 
