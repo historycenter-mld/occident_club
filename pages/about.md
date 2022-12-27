@@ -10,7 +10,7 @@ credits: true
 
 {% include feature/jumbotron.html objectid="col002_oc_205" %}
 
-{% include feature/nav-menu.html sections="The Occident Club;The Occident Club & The Library;The Occident Club & The Emergency Closet;The Occident Club & Politics;About the Occident Club Collection" %}
+{% include feature/nav-menu.html sections="The Occident Club;The Occident Club and The Library;The Occident Club and The Emergency Closet;The Occident Club and Politics;About the Occident Club Collection" %}
 
 ## The Occident Club
 The Meridian Occident Club was founded on June 19, 1924 as a women's organization determined to work toward the betterment of Meridian, Idaho in any civic or social capacity. Examples of the club's community work include providing flour and clothing donations to the Red Cross during the Great Depression, the purchasing of war bonds and the filling of army kits to support the military during World War II, and the organization of an "Emergency Loan Chest" in which those in the community without the means to purchase needed medical equipment could take out their needed items on loan. The most significant impact of the Occident Club, however, was the library. As the age of the club's membership increased, and new members decreased, the club eventually held its last meeting in January 1996 and finalized the donation of its remianing funds into community needs.
